@@ -5,3 +5,4 @@
 <p>->maximal munch scanner</p>
 <p>->dfa class which gathers data from csv files to respective data structures</p>
 <p>->test class which containes the main driver code</p>
+.
